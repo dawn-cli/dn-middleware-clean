@@ -1,5 +1,5 @@
 {
-  "name": "dbl-middleware-clean",
+  "name": "dn-middleware-clean",
   "version": "1.0.1",
   "description": "",
   "main": "./lib/index.js",
@@ -7,5 +7,5 @@
     "test": "dn test"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
